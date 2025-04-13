@@ -14,7 +14,7 @@
       <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 12 Apr 2025 19:54:19 -0400</pubDate>
       <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;first-post-for-the-sake-of-testing&#34;&gt;First post for the sake of testing&lt;/h1&gt;&#xA;&lt;p&gt;Welcome, don&amp;rsquo;t take this seriously at all as is me dropping random things here&lt;/p&gt;&#xA;&lt;h2 id=&#34;this-is-a-second-hed&#34;&gt;this is a second hed&lt;/h2&gt;&#xA;&lt;p&gt;loren impsun blablabla&lt;/p&gt;&#xA;&lt;h3 id=&#34;this-is-a-third-hed&#34;&gt;this is a third hed&lt;/h3&gt;&#xA;&lt;p&gt;im so bored rn lol&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hello world&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
